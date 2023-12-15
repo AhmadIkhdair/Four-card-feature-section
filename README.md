@@ -47,6 +47,6 @@ I want to continue focusing on making the webpages responsive to all screen size
 
 ## Author
 
-- Website - [Ahmad Ikhdair](https://github.com/AhmadIkhdair)
-- Frontend Mentor - [@AhmadIkhdair](https://www.frontendmentor.io/profile/AhmadIkhdair)
+- LinkedIn - [Ahmad Ikhdair](https://www.linkedin.com/in/ahmad-ikhdair/)
+- Frontend Mentor - [AhmadIkhdair](https://www.frontendmentor.io/profile/AhmadIkhdair)
 
